@@ -73,14 +73,14 @@ You’ve successfully installed and configured WSL on your system. You can now s
 
 ---
 
-## 💻 Step 2: ติดตั้ง WSL
+## 💻 Step 2 : ติดตั้ง WSL
 
 1. **Windows Search** > **WSL** > **Run as Administrator**
 2. ทำตามคำแนะนำแล้วกดปุ่มใดก็ได้เพื่อติดตั้ง Windows Subsystem for Linux
 
 ---
 
-## ⚙️ Step 3: กำหนดค่า WSL Settings
+## ⚙️ Step 3 : กำหนดค่า WSL Settings
 
 1. **Windows Search** > **WSL Settings**
 2. กำหนดค่าตามนี้ :

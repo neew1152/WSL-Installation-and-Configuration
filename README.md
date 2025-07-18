@@ -1,7 +1,7 @@
 # How to Install and Configure WSL (Windows Subsystem for Linux)
 
 <p align="center">
-  <img src="./Images/Square44x44Logo.targetsize-256.png" alt="WSL logo"/>
+  <img src="[./Images/Square44x44Logo.targetsize-256.png](https://github.com/microsoft/WSL/blob/master/Images/Square44x44Logo.targetsize-256.png)" alt="WSL logo"/>
 </p>
 
 This guide walks you through the installation and configuration of WSL on your Windows machine.
@@ -55,7 +55,7 @@ You’ve successfully installed and configured WSL on your system. You can now s
 # วิธีติดตั้งและกำหนดค่า WSL (Windows Subsystem for Linux)
 
 <p align="center">
-  <img src="./Images/Square44x44Logo.targetsize-256.png" alt="WSL logo"/>
+  <img src="[./Images/Square44x44Logo.targetsize-256.png](https://github.com/microsoft/WSL/blob/master/Images/Square44x44Logo.targetsize-256.png)" alt="WSL logo"/>
 </p>
 
 ## 🔧 Step 1 : เปิดใช้งานฟีเจอร์วินโดส์ที่จำเป็น

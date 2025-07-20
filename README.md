@@ -35,7 +35,9 @@ This guide walks you through the installation and configuration of WSL on your W
 1. Press `Super Key`, type **WSL Settings**, and open the app.
 2. Configure the following options:
    - **Developer**: Enable `Debug Console`
-   - **Auto memory reclaim**: Set to `Gradual`
+   - **Optional Features**
+        - **Auto memory reclaim**: Set to `Disabled`
+        - Disable `Enable GUI applications`
 
 | Option        | Behavior                                                                 | Best Use Case                                                                                               |
 | ------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
@@ -85,7 +87,9 @@ You’ve successfully installed and configured WSL on your system. You can now s
 1. **Windows Search** > **WSL Settings**
 2. กำหนดค่าตามนี้ :
    - **Developer** : ✅ `Debug Console`
-   - **Auto memory reclaim** : ✅ `Gradual`
+   - **Optional Features**
+        - **Auto memory reclaim** : `Disabled`
+        - ❌ `Enable GUI applications`
 
 | ตัวเลือก        | การทำงาน                                                 | การใช้งาน                                                                                              |
 | ------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |

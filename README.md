@@ -1,6 +1,6 @@
 # How to Install and Configure Windows Subsystem for Linux
 
-This guide walks you through the installation and configuration of WSL on your Windows machine.
+> This guide walks you through the installation and configuration of WSL on your Windows machine.
 
 <p align="center">
   <img src="https://github.com/microsoft/WSL/blob/master/Images/Square44x44Logo.targetsize-256.png" alt="WSL logo"/>
